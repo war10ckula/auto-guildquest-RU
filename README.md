@@ -1,18 +1,24 @@
-Auto-Vanguard / Guild-Quest / Guadian Legion / Daily cradit
----
-also adds a counter for completed missions as compensation in notice chat<br>
----
-NA = S_GUILD_QUEST_LIST 57096 <br>
-EU = S_GUILD_QUEST_LIST = 28597
----
+# Auto-Vanguard / Guild-Quest / Guadian Legion / Daily cradit
+======
 
-Commands | infos
---- | ---
-Auto | base command
-UI | Show the ui setting
-VQ | for enabled/disabled Auto-Vanguard
-GQ | for enabled/disabled Auto-GuildQuest with relaunch
-GQLog | for enabled/disabled GuildQuest-Logger
-GL | for enabled/disabled Auto claim box in Gardian legion
-DL | for enabled/disabled Auto claim Daily cradit 
+## also adds a counter for completed missions as compensation in notice chat
+
+------
+
+Комманда | Описание
+| ------------- | ------------- |
+|auto | base command (on/off module)
+|set | Show the ui setting
+|vq | for enabled/disabled Auto-Vanguard
+|gq | for enabled/disabled Auto-GuildQuest with relaunch
+|gqlog | for enabled/disabled GuildQuest-Logger
+|gl | for enabled/disabled Auto claim box in Gardian legion
+|dc | for enabled/disabled Auto claim Daily cradit 
+|status | module status
+
+------
+
+### Команды интегрированы в модуль прокси-меню
+
+### Commands are integrated into the proxy menu module
 
